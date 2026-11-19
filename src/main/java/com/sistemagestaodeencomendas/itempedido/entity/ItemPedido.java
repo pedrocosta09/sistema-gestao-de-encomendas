@@ -1,6 +1,8 @@
 
-package com.sistemagestaodeencomendas.model;
+package com.sistemagestaodeencomendas.itempedido.entity;
 
+import com.sistemagestaodeencomendas.pedido.enums.StatusPedido;
+import com.sistemagestaodeencomendas.pedido.entity.Pedido;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

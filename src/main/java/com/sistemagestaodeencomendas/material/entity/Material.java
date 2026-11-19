@@ -1,6 +1,7 @@
 
-package com.sistemagestaodeencomendas.model;
+package com.sistemagestaodeencomendas.material.entity;
 
+import com.sistemagestaodeencomendas.material.enums.UnidadeMedida;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;
 import lombok.Getter;

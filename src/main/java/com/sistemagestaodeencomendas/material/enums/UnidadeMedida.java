@@ -1,5 +1,5 @@
 
-package com.sistemagestaodeencomendas.model;
+package com.sistemagestaodeencomendas.material.enums;
 
 public enum UnidadeMedida {
     UNIDADE,

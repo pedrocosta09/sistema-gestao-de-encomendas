@@ -1,5 +1,5 @@
 
-package com.sistemagestaodeencomendas.model;
+package com.sistemagestaodeencomendas.pedido.enums;
 
 public enum StatusPedido {
     RECEBIDO,

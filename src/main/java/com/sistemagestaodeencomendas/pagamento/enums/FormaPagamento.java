@@ -1,5 +1,5 @@
 
-package com.sistemagestaodeencomendas.model;
+package com.sistemagestaodeencomendas.pagamento.enums;
 
 public enum FormaPagamento {
     PIX,

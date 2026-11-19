@@ -1,5 +1,5 @@
 
-package com.sistemagestaodeencomendas.model;
+package com.sistemagestaodeencomendas.funcionario.entity;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;

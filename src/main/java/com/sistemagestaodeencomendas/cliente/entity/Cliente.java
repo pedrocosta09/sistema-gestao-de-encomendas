@@ -1,5 +1,5 @@
 
-package com.sistemagestaodeencomendas.model;
+package com.sistemagestaodeencomendas.cliente.entity;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Email;

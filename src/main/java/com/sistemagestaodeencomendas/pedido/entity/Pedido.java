@@ -1,6 +1,12 @@
 
-package com.sistemagestaodeencomendas.model;
+package com.sistemagestaodeencomendas.pedido.entity;
 
+import com.sistemagestaodeencomendas.cliente.entity.Cliente;
+import com.sistemagestaodeencomendas.funcionario.entity.Funcionario;
+import com.sistemagestaodeencomendas.historicoalteracao.entity.HistoricoAlteracao;
+import com.sistemagestaodeencomendas.itempedido.entity.ItemPedido;
+import com.sistemagestaodeencomendas.pagamento.entity.Pagamento;
+import com.sistemagestaodeencomendas.pedido.enums.StatusPedido;
 import jakarta.persistence.*;
 import lombok.AccessLevel;
 import lombok.Getter;
