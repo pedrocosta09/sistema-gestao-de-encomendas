@@ -1,8 +1,8 @@
 
 package com.sistemagestaodeencomendas.consumomaterial.entity;
 
-import com.sistemagestaodeencomendas.itempedido.entity.ItemPedido;
 import com.sistemagestaodeencomendas.material.entity.Material;
+import com.sistemagestaodeencomendas.itempedido.entity.ItemPedido;
 import com.sistemagestaodeencomendas.pedido.entity.Pedido;
 import com.sistemagestaodeencomendas.pedido.enums.StatusPedido;
 import jakarta.persistence.*;
