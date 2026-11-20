@@ -64,7 +64,7 @@ public class ItemPedido {
         this.valorUnitario = valorUnitario;
     }
 
-    void vincularPedido(Pedido pedido) {
+    public void vincularPedido(Pedido pedido) {
         if (pedido == null) {
             throw new IllegalArgumentException(
                     "O pedido é obrigatório."
