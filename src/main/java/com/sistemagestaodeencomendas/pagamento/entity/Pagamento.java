@@ -52,8 +52,7 @@ public class Pagamento {
         this.formaPagamento = formaPagamento;
     }
 
-    void vincularPedido(Pedido pedido) {
-        if (pedido == null) {
+    public void vincularPedido(Pedido pedido) {        if (pedido == null) {
             throw new IllegalArgumentException(
                     "O pedido é obrigatório."
             );
