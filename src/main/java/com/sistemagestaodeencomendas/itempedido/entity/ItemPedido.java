@@ -64,6 +64,7 @@ public class ItemPedido {
         this.valorUnitario = valorUnitario;
     }
 
+    public void vincularPedido(Pedido pedido) {        if (pedido == null) {
     public void vincularPedido(Pedido pedido) {
         if (pedido == null) {
             throw new IllegalArgumentException(
